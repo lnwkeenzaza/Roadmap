@@ -5,5 +5,5 @@ https://roadmap.sh/projects/single-page-cv
 link: https://github.com/lnwkeenzaza/Roadmap/blob/main/index.html
 
 # 02 Basic HTML Web
-link: 02 basic html-website
+link: https://github.com/lnwkeenzaza/Roadmap.sh/tree/main/02%20basic%20html-website
 
