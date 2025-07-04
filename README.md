@@ -1,5 +1,3 @@
 # Single-Page-CV
 Practice HTML
-
-
-link: 
+link: index.html
